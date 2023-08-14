@@ -21,9 +21,9 @@ The calculator project is here to solve your math mysteries! It's your trusty co
 Keep your tasks in check with the fantastic to-do app! It's like having a virtual personal assistant.
 
 **Features:**
-- 📝 Add, ✅ mark, ✏️ edit, and ❌ delete tasks
-- 🗒️ Tasks can be completed or not
-- 📊 Real-time task statistics
+- 📝 Add, ✏️ edit, and ❌ delete tasks
+- 🗒️ Tasks can viewed 
+- 📊 Real-time view
 
 ## 🏆 Tribute Page
 
@@ -32,7 +32,7 @@ The tribute page lets you shine a spotlight on your heroes, idols, or favorite t
 **Features:**
 - 📜 Display an intriguing introduction
 - 📸 Showcase captivating images
-- 🏅 Highlight achievements or fun facts
+- 🏅 Highlight achievements or  facts
 
 ## 📁 Project Structure
 
