@@ -1,7 +1,7 @@
 <h1 align="center">✨ HTML, CSS, and JavaScript Magic! ✨</h1>
 
 <p align="center">
-  <img src="combined_projects_screenshot.png" alt="Combined Projects Screenshot">
+  <img src="https://github.com/kaviyac26/OIBSIP/assets/130381040/d6b8f0ec-8951-4e9a-8974-45a457add0a1" alt="Combined Projects Screenshot">
 </p>
 
 <p align="center">
