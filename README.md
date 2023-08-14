@@ -1,7 +1,7 @@
 <h1 align="center">✨ HTML, CSS, and JavaScript Magic! ✨</h1>
 
 <p align="center">
-  <img src="your_combined_projects_screenshot.png" alt="Combined Projects Screenshot">
+  <img src="combined_projects_screenshot.png" alt="Combined Projects Screenshot">
 </p>
 
 <p align="center">
